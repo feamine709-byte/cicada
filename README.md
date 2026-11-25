@@ -212,3 +212,13 @@ All results below are captured from real execution runs on Cicada `v0.4.0`:
 ## License
 
 See [LICENSE](./LICENSE) for full licensing terms.
+
+---
+
+## Need Programmable Custom Rules & n8n / HTTP Support?
+
+If you need a programmable 28-command rule engine compiled into 16-byte binary impulses, live runtime rule CRUD (GET/POST /rules), --dry-run simulation, native --hook evaluation, and POST /eval support for 
+8n and webhook pipelines, check out **V0.5-Joker (v0.5.0)**:
+
+- **Documentation & Presets:** [github.com/feamine709-byte/joker](https://github.com/feamine709-byte/joker)
+- **Get V0.5-Joker ( One-Time License):** [Purchase on Polar.sh](https://buy.polar.sh/polar_cl_QNGodSf74F49VETHe1vvfYGvsiEDsqTuNax5V0i8ck1)
