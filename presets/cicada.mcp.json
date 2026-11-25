@@ -1,0 +1,15 @@
+﻿{
+  "mcpServers": {
+    "living-automaton-agent-guard": {
+      "command": "living_automaton_kernel.exe",
+      "args": [
+        "--profile", "agent-guard",
+        "--workspace", ".",
+        "--data-dir", ".lak-data",
+        "--cmd-timeout", "30",
+        "--mcp-stdio"
+      ]
+    }
+  }
+}
+
