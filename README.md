@@ -209,16 +209,15 @@ All results below are captured from real execution runs on Cicada `v0.4.0`:
 
 ---
 
-## License
+## Need Programmable Policy Rules?
 
-See [LICENSE](./LICENSE) for full licensing terms.
+Cicada provides out-of-the-box execution isolation, secret redaction, tool pruning, and circuit breaking completely free. If your workflow requires a programmable 28-command local policy engine, live rule hot-reloading, dry-run validation, and 4 domain presets (AI agents, API guards, n8n webhooks, strict sandboxes), check out Joker v0.5.0 ($29 one-time license).
+
+- Showcase and docs: https://github.com/feamine709-byte/joker
+- Direct license and binaries ($29 one-time): https://buy.polar.sh/polar_cl_QNGodSf74F49VETHe1vvfYGvsiEDsqTuNax5V0i8ck1
 
 ---
 
-## Need Programmable Custom Rules & n8n / HTTP Support?
+## License
 
-If you need a programmable 28-command rule engine compiled into 16-byte binary impulses, live runtime rule CRUD (GET/POST /rules), --dry-run simulation, native --hook evaluation, and POST /eval support for 
-8n and webhook pipelines, check out **V0.5-Joker (v0.5.0)**:
-
-- **Documentation & Presets:** [github.com/feamine709-byte/joker](https://github.com/feamine709-byte/joker)
-- **Get V0.5-Joker ( One-Time License):** [Purchase on Polar.sh](https://buy.polar.sh/polar_cl_QNGodSf74F49VETHe1vvfYGvsiEDsqTuNax5V0i8ck1)
+See [LICENSE](./LICENSE) for full licensing terms.
