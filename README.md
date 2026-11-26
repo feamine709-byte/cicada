@@ -214,7 +214,7 @@ All results below are captured from real execution runs on Cicada `v0.4.0`:
 Cicada provides out-of-the-box execution isolation, secret redaction, tool pruning, and circuit breaking completely free. If your workflow requires a programmable 28-command local policy engine, live rule hot-reloading, dry-run validation, and 4 domain presets (AI agents, API guards, n8n webhooks, strict sandboxes), check out Joker v0.5.0 ($29 one-time license).
 
 - Showcase and docs: https://github.com/feamine709-byte/joker
-- Direct license and binaries ($29 one-time): https://buy.polar.sh/polar_cl_QNGodSf74F49VETHe1vvfYGvsiEDsqTuNax5V0i8ck1
+- Direct license and binaries ($29 one-time): https://buy.polar.sh/polar_cl_QNGodSf74F49VETHe1vvIYGvsiEDsqTuNax5V0i8ck1
 
 ---
 
